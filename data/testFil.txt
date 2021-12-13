@@ -1,0 +1,7 @@
+Mercedes;E220;Diesel;20-10-2018;22.4 
+Tesla;Model S;Electric; 28-05-2019;236.0
+BMW;X5;Benzin;04-09-2018;17.7
+VW;Golf Gti;Benzin;22-03-2021;13.7
+Kia;Kia Picanto;Benzin;06-03-2020;25.0
+VW;Up;Benzin;04-05-2015;24.4
+
